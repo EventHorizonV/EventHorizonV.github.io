@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://eventhorizonv.github.io</id>
     <title>EventHorizon&apos;s Blog</title>
-    <updated>2022-06-23T16:49:16.626Z</updated>
+    <updated>2022-06-23T17:08:12.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://eventhorizonv.github.io"/>
     <link rel="self" href="https://eventhorizonv.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://eventhorizonv.github.io/images/avatar.png</logo>
     <icon>https://eventhorizonv.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, EventHorizon&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[Gitee？狗都不用]]></title>
+        <id>https://eventhorizonv.github.io/post/giteegou-du-bu-yong/</id>
+        <link href="https://eventhorizonv.github.io/post/giteegou-du-bu-yong/">
+        </link>
+        <updated>2022-06-23T17:05:20.000Z</updated>
+        <content type="html"><![CDATA[<p>讲个笑话 Gitee开源要工作人员审核<br>
+笑死了🤡<br>
+<img src="https://eventhorizonv.github.io/post-images/1656003993178.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello World]]></title>
         <id>https://eventhorizonv.github.io/post/hello-world/</id>
