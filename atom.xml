@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://eventhorizonv.github.io</id>
     <title>EventHorizon&apos;s Blog</title>
-    <updated>2022-06-23T09:59:53.712Z</updated>
+    <updated>2022-06-23T10:01:21.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://eventhorizonv.github.io"/>
     <link rel="self" href="https://eventhorizonv.github.io/atom.xml"/>
@@ -16,7 +16,7 @@
         <link href="https://eventhorizonv.github.io/post/hello-world/">
         </link>
         <updated>2022-06-23T09:59:07.000Z</updated>
-        <content type="html"><![CDATA[<p>测试用文章</p>
+        <content type="html"><![CDATA[<p><img src="https://eventhorizonv.github.io/post-images/1655978454613.jpg" alt="" loading="lazy">测试用文章</p>
 ]]></content>
     </entry>
 </feed>
