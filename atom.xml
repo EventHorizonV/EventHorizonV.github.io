@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://eventhorizonv.github.io</id>
+    <title>EventHorizon&apos;s Blog</title>
+    <updated>2022-06-23T07:39:15.462Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://eventhorizonv.github.io"/>
+    <link rel="self" href="https://eventhorizonv.github.io/atom.xml"/>
+    <subtitle>事件视界的私人博客</subtitle>
+    <logo>https://eventhorizonv.github.io/images/avatar.png</logo>
+    <icon>https://eventhorizonv.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, EventHorizon&apos;s Blog</rights>
+</feed>
