@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://eventhorizonv.github.io</id>
     <title>EventHorizon&apos;s Blog</title>
-    <updated>2022-06-24T05:13:01.276Z</updated>
+    <updated>2022-06-24T05:18:36.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://eventhorizonv.github.io"/>
     <link rel="self" href="https://eventhorizonv.github.io/atom.xml"/>
@@ -10,13 +10,6 @@
     <logo>https://eventhorizonv.github.io/images/avatar.png</logo>
     <icon>https://eventhorizonv.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, EventHorizon&apos;s Blog</rights>
-    <entry>
-        <title type="html"><![CDATA[延迟测试]]></title>
-        <id>https://eventhorizonv.github.io/post/yan-chi-ce-shi/</id>
-        <link href="https://eventhorizonv.github.io/post/yan-chi-ce-shi/">
-        </link>
-        <updated>2022-06-24T04:51:48.000Z</updated>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Gitee？狗都不用]]></title>
         <id>https://eventhorizonv.github.io/post/gitee-dogs/</id>
